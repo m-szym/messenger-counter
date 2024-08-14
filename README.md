@@ -13,7 +13,7 @@ Note: to use this script you'll need to manually download you data from Facebook
 > To download messages from Messenger App (post-e2e-encryption): \
 > Account -> fully encrypted chats -> safe storage -> download data...
 
-Unpack the  files  to convenient location - only the `inbox` folder is needed. 
+Unpack the  files  to convenient location - only the `inbox` folder is needed. \
 If you want to merge data from Facebook-Messenger and Messenger App you'll have to manually copy the .JSON files into proper subfolder. It's pain because the conversation names are random numbers. I know.
 
 ---
