@@ -10,7 +10,7 @@ import re
 if __name__ == '__main__':
 
     folder_path = 'F:\\your_facebook_activity\\messages\\inbox\\johnsmith_1234567890'  # <--- CHANGE THIS
-    # Path to the folder containing the messages - default is something like "your_facebook_activity\messages\inbox"
+    # Path to the folder containing the messages - default is something like "your_facebook_activity\messages\inbox\XYZ_number"
     # Replace \ with \\ or / (because of escape characters)
     title = re.sub(r'_[0-9]+', ' ', folder_path.split('\\')[-1])    # Title for the plots
     fig_size = (20, 12)  # Size of the plot
