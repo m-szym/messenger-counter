@@ -21,11 +21,11 @@ If you want to merge data from Facebook-Messenger and Messenger App you'll have 
 
 - `counter.py` - counts and displays stats for all chats (requires only Python3)
 	1. open the file and edit the `inbox_path` so that it points to your shiny, new inbox folder
-	2. (change how the data will be displayed)
+	2. (do your changes)
 	3. run the script
 - `overtime.py` - plot specific chat over time (requires Python3 and matplotlib)
-	1. open the file and edit the `folder_path` so that it points to the chat folder
-	2. (change how the data will be displayed)
+	1. open the file and edit the `folder_path` so that it points to the correct chat folder
+	2. (do your changes)
 	3. run the script
 
 
